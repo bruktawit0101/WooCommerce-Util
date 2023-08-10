@@ -1,0 +1,5 @@
+.pytest_cache/
+../.idea/workspace.xml
+**/__pycache__/
+woo_venv/
+env_variables.sh

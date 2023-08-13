@@ -24,7 +24,7 @@ payload = json.dumps(
             "project": {
                 "key": "MFJP"
             },
-            "summary": "Use jira API to clone a story.",
+            "summary": " clone a story with API call.",
             "description": "Creating a Python script that will clone a story and assign it to users. Use Jira API.",
             "issuetype": {
                 "name": "Task"

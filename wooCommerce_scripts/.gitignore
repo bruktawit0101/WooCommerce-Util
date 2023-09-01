@@ -2,4 +2,6 @@
 ../.idea/workspace.xml
 **/__pycache__/
 woo_venv/
-env_variables.sh
+env_variables.sh/
+my_users_list.csv
+
